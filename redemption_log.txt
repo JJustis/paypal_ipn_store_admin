@@ -1,0 +1,6 @@
+[2024-09-22 00:58:42] [INFO] Redemption attempt by user: Vikerus3
+[2024-09-22 00:58:42] [INFO] Prepared command: /give @p diamond
+[2024-09-22 00:59:41] [INFO] Redemption attempt by user: Vikerus3
+[2024-09-22 00:59:41] [INFO] Prepared command: /give @p diamond
+[2024-09-22 01:00:27] [INFO] Redemption attempt by user: Vikerus3
+[2024-09-22 01:00:27] [INFO] Prepared command: /give @p diamond

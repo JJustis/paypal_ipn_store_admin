@@ -1,0 +1,23 @@
+[
+    {
+        "id": "66ef522f46860",
+        "name": "PayPal IPN Shop",
+        "price": 1,
+        "description": "Purchase, drag and drop into your www folder and you are ready to go!",
+        "type": "digital",
+        "image": "https:\/\/betahut.bounceme.net\/dashboard\/uploads\/66e6fd545805a.webp",
+        "file_path": "uploads\/paypalipnhowto.zip"
+    },
+    {
+        "id": "66ef840195a2c",
+        "name": "Give any Minecraft player 2 Diamonds",
+        "price": 0.01,
+        "description": "two diamonds hot off the press",
+        "type": "minecraft",
+        "image": "https:\/\/betahut.bounceme.net\/dashboard\/uploads\/66e6fd545805a.webp",
+        "command": "\/give @p diamond",
+        "server_ip": "betahut.bounceme.net",
+        "server_port": 200,
+        "rcon_password": "YYIqZukrs3MoW2SAuDYqd0RXcVh0MHpOWDlpSU1HZ3cybXFGTkE9PQ=="
+    }
+]

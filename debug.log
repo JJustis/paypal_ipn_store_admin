@@ -1,0 +1,2877 @@
+[2024-09-21 03:38:12] User email: Vikerus3@gmail.com
+[2024-09-21 03:38:12] Purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 03:38:12] No purchases found for user: Vikerus3@gmail.com
+[2024-09-21 03:38:27] User email: Vikerus3@gmail.com
+[2024-09-21 03:38:27] Purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 03:38:27] No purchases found for user: Vikerus3@gmail.com
+[2024-09-21 03:38:39] User email: Vikerus3@gmail.com
+[2024-09-21 03:38:39] Purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 03:38:39] No purchases found for user: Vikerus3@gmail.com
+[2024-09-21 03:45:16] User email: Vikerus3@gmail.com
+[2024-09-21 03:45:16] Purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 03:45:16] No purchases found for user: Vikerus3@gmail.com
+[2024-09-21 03:55:14] User email: Vikerus3@gmail.com
+[2024-09-21 03:55:14] Purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 03:55:14] No purchases found for user: Vikerus3@gmail.com
+[2024-09-21 03:55:19] User email: Vikerus3@gmail.com
+[2024-09-21 03:55:19] Purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 03:55:19] No purchases found for user: Vikerus3@gmail.com
+[2024-09-21 03:57:24] Session data: Array
+(
+    [cachey] => 1726883152.568
+    [tmpfname] => C:\portablexampp\htdocs\includes\tmp\artD943.tmp
+    [serverKeyHalf] => RÉ–•627Oª‘gÙM
+    [admin_user] => Vikerus1@gmail.com
+    [user] => Vikerus3
+    [user_email] => Vikerus3@gmail.com
+)
+
+[2024-09-21 03:57:24] Received data - Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969, Player Name: vikeruspro
+[2024-09-21 03:57:24] User email: Vikerus3@gmail.com
+[2024-09-21 03:57:24] Username: Vikerus3
+[2024-09-21 03:57:24] All purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 03:57:24] User purchases: Array
+(
+    [0] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede2ffcc637
+            [price] => 0.01
+            [date] => 2024-09-20 23:03:43
+            [type] => digital
+        )
+
+    [1] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede6b50d8c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:19:31
+            [type] => digital
+        )
+
+    [2] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66edefee190c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:58:49
+            [type] => digital
+            [payment_status] => Completed
+        )
+
+    [3] => Array
+        (
+            [product_id] => 66edfa29a771c
+            [product_name] => Test 2
+            [transaction_id] => txn_66edfa3b47c9d
+            [price] => 0.01
+            [date] => 2024-09-21 00:42:41
+            [type] => physical
+            [payment_status] => Completed
+            [status] => paid
+            [tracking_number] => 456465465
+        )
+
+    [4] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1d5b16f24
+            [price] => 0.01
+            [date] => 2024-09-21 03:12:40
+            [type] => minecraft
+            [payment_status] => Completed
+            [status] => paid
+        )
+
+    [5] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1fb02a0c3
+            [price] => 0.01
+            [date] => 2024-09-21 03:22:33
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [6] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee215ea2731
+            [price] => 0.01
+            [date] => 2024-09-21 03:30:08
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [7] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee249d8c7d2
+            [price] => 0.01
+            [date] => 2024-09-21 03:44:01
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+)
+
+[2024-09-21 03:57:24] Purchase not found. Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969
+[2024-09-21 03:57:30] Session data: Array
+(
+    [cachey] => 1726883152.568
+    [tmpfname] => C:\portablexampp\htdocs\includes\tmp\artD943.tmp
+    [serverKeyHalf] => RÉ–•627Oª‘gÙM
+    [admin_user] => Vikerus1@gmail.com
+    [user] => Vikerus3
+    [user_email] => Vikerus3@gmail.com
+)
+
+[2024-09-21 03:57:30] Received data - Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969, Player Name: vikeruspro
+[2024-09-21 03:57:30] User email: Vikerus3@gmail.com
+[2024-09-21 03:57:30] Username: Vikerus3
+[2024-09-21 03:57:30] All purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 03:57:30] User purchases: Array
+(
+    [0] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede2ffcc637
+            [price] => 0.01
+            [date] => 2024-09-20 23:03:43
+            [type] => digital
+        )
+
+    [1] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede6b50d8c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:19:31
+            [type] => digital
+        )
+
+    [2] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66edefee190c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:58:49
+            [type] => digital
+            [payment_status] => Completed
+        )
+
+    [3] => Array
+        (
+            [product_id] => 66edfa29a771c
+            [product_name] => Test 2
+            [transaction_id] => txn_66edfa3b47c9d
+            [price] => 0.01
+            [date] => 2024-09-21 00:42:41
+            [type] => physical
+            [payment_status] => Completed
+            [status] => paid
+            [tracking_number] => 456465465
+        )
+
+    [4] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1d5b16f24
+            [price] => 0.01
+            [date] => 2024-09-21 03:12:40
+            [type] => minecraft
+            [payment_status] => Completed
+            [status] => paid
+        )
+
+    [5] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1fb02a0c3
+            [price] => 0.01
+            [date] => 2024-09-21 03:22:33
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [6] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee215ea2731
+            [price] => 0.01
+            [date] => 2024-09-21 03:30:08
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [7] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee249d8c7d2
+            [price] => 0.01
+            [date] => 2024-09-21 03:44:01
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+)
+
+[2024-09-21 03:57:30] Purchase not found. Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969
+[2024-09-21 03:58:39] Session data: Array
+(
+    [cachey] => 1726883152.568
+    [tmpfname] => C:\portablexampp\htdocs\includes\tmp\artD943.tmp
+    [serverKeyHalf] => RÉ–•627Oª‘gÙM
+    [admin_user] => Vikerus1@gmail.com
+    [user] => Vikerus3
+    [user_email] => Vikerus3@gmail.com
+)
+
+[2024-09-21 03:58:39] Received data - Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969, Player Name: Vikerus
+[2024-09-21 03:58:39] User email: Vikerus3@gmail.com
+[2024-09-21 03:58:39] Username: Vikerus3
+[2024-09-21 03:58:39] All purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 03:58:39] User purchases: Array
+(
+    [0] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede2ffcc637
+            [price] => 0.01
+            [date] => 2024-09-20 23:03:43
+            [type] => digital
+        )
+
+    [1] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede6b50d8c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:19:31
+            [type] => digital
+        )
+
+    [2] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66edefee190c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:58:49
+            [type] => digital
+            [payment_status] => Completed
+        )
+
+    [3] => Array
+        (
+            [product_id] => 66edfa29a771c
+            [product_name] => Test 2
+            [transaction_id] => txn_66edfa3b47c9d
+            [price] => 0.01
+            [date] => 2024-09-21 00:42:41
+            [type] => physical
+            [payment_status] => Completed
+            [status] => paid
+            [tracking_number] => 456465465
+        )
+
+    [4] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1d5b16f24
+            [price] => 0.01
+            [date] => 2024-09-21 03:12:40
+            [type] => minecraft
+            [payment_status] => Completed
+            [status] => paid
+        )
+
+    [5] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1fb02a0c3
+            [price] => 0.01
+            [date] => 2024-09-21 03:22:33
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [6] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee215ea2731
+            [price] => 0.01
+            [date] => 2024-09-21 03:30:08
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [7] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee249d8c7d2
+            [price] => 0.01
+            [date] => 2024-09-21 03:44:01
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+)
+
+[2024-09-21 03:58:39] Error: Purchase not found. Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969
+[2024-09-21 03:58:39] Stack trace: #0 {main}
+[2024-09-21 04:00:16] Session data: Array
+(
+    [cachey] => 1726883152.568
+    [tmpfname] => C:\portablexampp\htdocs\includes\tmp\artD943.tmp
+    [serverKeyHalf] => RÉ–•627Oª‘gÙM
+    [admin_user] => Vikerus1@gmail.com
+    [user] => Vikerus3
+    [user_email] => Vikerus3@gmail.com
+)
+
+[2024-09-21 04:00:16] Received data - Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969, Player Name: Vikerus
+[2024-09-21 04:00:16] User email: Vikerus3@gmail.com
+[2024-09-21 04:00:16] Username: Vikerus3
+[2024-09-21 04:00:16] All purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 04:00:16] User purchases: Array
+(
+    [0] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede2ffcc637
+            [price] => 0.01
+            [date] => 2024-09-20 23:03:43
+            [type] => digital
+        )
+
+    [1] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede6b50d8c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:19:31
+            [type] => digital
+        )
+
+    [2] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66edefee190c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:58:49
+            [type] => digital
+            [payment_status] => Completed
+        )
+
+    [3] => Array
+        (
+            [product_id] => 66edfa29a771c
+            [product_name] => Test 2
+            [transaction_id] => txn_66edfa3b47c9d
+            [price] => 0.01
+            [date] => 2024-09-21 00:42:41
+            [type] => physical
+            [payment_status] => Completed
+            [status] => paid
+            [tracking_number] => 456465465
+        )
+
+    [4] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1d5b16f24
+            [price] => 0.01
+            [date] => 2024-09-21 03:12:40
+            [type] => minecraft
+            [payment_status] => Completed
+            [status] => paid
+        )
+
+    [5] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1fb02a0c3
+            [price] => 0.01
+            [date] => 2024-09-21 03:22:33
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [6] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee215ea2731
+            [price] => 0.01
+            [date] => 2024-09-21 03:30:08
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [7] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee249d8c7d2
+            [price] => 0.01
+            [date] => 2024-09-21 03:44:01
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+)
+
+[2024-09-21 04:00:16] Error: Purchase not found. Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969
+[2024-09-21 04:00:16] Stack trace: #0 {main}
+[2024-09-21 04:00:30] Session data: Array
+(
+    [cachey] => 1726883152.568
+    [tmpfname] => C:\portablexampp\htdocs\includes\tmp\artD943.tmp
+    [serverKeyHalf] => RÉ–•627Oª‘gÙM
+    [admin_user] => Vikerus1@gmail.com
+    [user] => Vikerus3
+    [user_email] => Vikerus3@gmail.com
+)
+
+[2024-09-21 04:00:30] Received data - Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969, Player Name: Vikerus
+[2024-09-21 04:00:30] User email: Vikerus3@gmail.com
+[2024-09-21 04:00:30] Username: Vikerus3
+[2024-09-21 04:00:30] All purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 04:00:30] User purchases: Array
+(
+    [0] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede2ffcc637
+            [price] => 0.01
+            [date] => 2024-09-20 23:03:43
+            [type] => digital
+        )
+
+    [1] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede6b50d8c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:19:31
+            [type] => digital
+        )
+
+    [2] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66edefee190c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:58:49
+            [type] => digital
+            [payment_status] => Completed
+        )
+
+    [3] => Array
+        (
+            [product_id] => 66edfa29a771c
+            [product_name] => Test 2
+            [transaction_id] => txn_66edfa3b47c9d
+            [price] => 0.01
+            [date] => 2024-09-21 00:42:41
+            [type] => physical
+            [payment_status] => Completed
+            [status] => paid
+            [tracking_number] => 456465465
+        )
+
+    [4] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1d5b16f24
+            [price] => 0.01
+            [date] => 2024-09-21 03:12:40
+            [type] => minecraft
+            [payment_status] => Completed
+            [status] => paid
+        )
+
+    [5] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1fb02a0c3
+            [price] => 0.01
+            [date] => 2024-09-21 03:22:33
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [6] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee215ea2731
+            [price] => 0.01
+            [date] => 2024-09-21 03:30:08
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [7] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee249d8c7d2
+            [price] => 0.01
+            [date] => 2024-09-21 03:44:01
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+)
+
+[2024-09-21 04:00:30] Error: Purchase not found. Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969
+[2024-09-21 04:00:30] Stack trace: #0 {main}
+[2024-09-21 04:01:03] Session data: Array
+(
+    [cachey] => 1726883152.568
+    [tmpfname] => C:\portablexampp\htdocs\includes\tmp\artD943.tmp
+    [serverKeyHalf] => RÉ–•627Oª‘gÙM
+    [admin_user] => Vikerus1@gmail.com
+    [user] => Vikerus3
+    [user_email] => Vikerus3@gmail.com
+)
+
+[2024-09-21 04:01:03] Received data - Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969, Player Name: Vikerus
+[2024-09-21 04:01:03] User email: Vikerus3@gmail.com
+[2024-09-21 04:01:03] Username: Vikerus3
+[2024-09-21 04:01:03] All purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 04:01:03] User purchases: Array
+(
+    [0] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede2ffcc637
+            [price] => 0.01
+            [date] => 2024-09-20 23:03:43
+            [type] => digital
+        )
+
+    [1] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede6b50d8c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:19:31
+            [type] => digital
+        )
+
+    [2] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66edefee190c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:58:49
+            [type] => digital
+            [payment_status] => Completed
+        )
+
+    [3] => Array
+        (
+            [product_id] => 66edfa29a771c
+            [product_name] => Test 2
+            [transaction_id] => txn_66edfa3b47c9d
+            [price] => 0.01
+            [date] => 2024-09-21 00:42:41
+            [type] => physical
+            [payment_status] => Completed
+            [status] => paid
+            [tracking_number] => 456465465
+        )
+
+    [4] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1d5b16f24
+            [price] => 0.01
+            [date] => 2024-09-21 03:12:40
+            [type] => minecraft
+            [payment_status] => Completed
+            [status] => paid
+        )
+
+    [5] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1fb02a0c3
+            [price] => 0.01
+            [date] => 2024-09-21 03:22:33
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [6] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee215ea2731
+            [price] => 0.01
+            [date] => 2024-09-21 03:30:08
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [7] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee249d8c7d2
+            [price] => 0.01
+            [date] => 2024-09-21 03:44:01
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+)
+
+[2024-09-21 04:01:03] Error: Purchase not found. Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969
+[2024-09-21 04:01:03] Stack trace: #0 {main}
+[2024-09-21 04:01:35] Session data: Array
+(
+    [cachey] => 1726883152.568
+    [tmpfname] => C:\portablexampp\htdocs\includes\tmp\artD943.tmp
+    [serverKeyHalf] => RÉ–•627Oª‘gÙM
+    [admin_user] => Vikerus1@gmail.com
+    [user] => Vikerus3
+    [user_email] => Vikerus3@gmail.com
+)
+
+[2024-09-21 04:01:35] Received data - Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969, Player Name: Vikerus
+[2024-09-21 04:01:35] User email: Vikerus3@gmail.com
+[2024-09-21 04:01:35] Username: Vikerus3
+[2024-09-21 04:01:35] All purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 04:01:35] User purchases: Array
+(
+    [0] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede2ffcc637
+            [price] => 0.01
+            [date] => 2024-09-20 23:03:43
+            [type] => digital
+        )
+
+    [1] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede6b50d8c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:19:31
+            [type] => digital
+        )
+
+    [2] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66edefee190c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:58:49
+            [type] => digital
+            [payment_status] => Completed
+        )
+
+    [3] => Array
+        (
+            [product_id] => 66edfa29a771c
+            [product_name] => Test 2
+            [transaction_id] => txn_66edfa3b47c9d
+            [price] => 0.01
+            [date] => 2024-09-21 00:42:41
+            [type] => physical
+            [payment_status] => Completed
+            [status] => paid
+            [tracking_number] => 456465465
+        )
+
+    [4] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1d5b16f24
+            [price] => 0.01
+            [date] => 2024-09-21 03:12:40
+            [type] => minecraft
+            [payment_status] => Completed
+            [status] => paid
+        )
+
+    [5] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1fb02a0c3
+            [price] => 0.01
+            [date] => 2024-09-21 03:22:33
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [6] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee215ea2731
+            [price] => 0.01
+            [date] => 2024-09-21 03:30:08
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [7] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee249d8c7d2
+            [price] => 0.01
+            [date] => 2024-09-21 03:44:01
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+)
+
+[2024-09-21 04:01:35] Error: Purchase not found. Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969
+[2024-09-21 04:01:35] Stack trace: #0 {main}
+[2024-09-21 04:01:52] Session data: Array
+(
+    [cachey] => 1726883152.568
+    [tmpfname] => C:\portablexampp\htdocs\includes\tmp\artD943.tmp
+    [serverKeyHalf] => RÉ–•627Oª‘gÙM
+    [admin_user] => Vikerus1@gmail.com
+    [user] => Vikerus3
+    [user_email] => Vikerus3@gmail.com
+)
+
+[2024-09-21 04:01:52] Received data - Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969, Player Name: Vikerus
+[2024-09-21 04:01:52] User email: Vikerus3@gmail.com
+[2024-09-21 04:01:52] Username: Vikerus3
+[2024-09-21 04:01:52] All purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 04:01:52] User purchases: Array
+(
+    [0] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede2ffcc637
+            [price] => 0.01
+            [date] => 2024-09-20 23:03:43
+            [type] => digital
+        )
+
+    [1] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede6b50d8c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:19:31
+            [type] => digital
+        )
+
+    [2] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66edefee190c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:58:49
+            [type] => digital
+            [payment_status] => Completed
+        )
+
+    [3] => Array
+        (
+            [product_id] => 66edfa29a771c
+            [product_name] => Test 2
+            [transaction_id] => txn_66edfa3b47c9d
+            [price] => 0.01
+            [date] => 2024-09-21 00:42:41
+            [type] => physical
+            [payment_status] => Completed
+            [status] => paid
+            [tracking_number] => 456465465
+        )
+
+    [4] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1d5b16f24
+            [price] => 0.01
+            [date] => 2024-09-21 03:12:40
+            [type] => minecraft
+            [payment_status] => Completed
+            [status] => paid
+        )
+
+    [5] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1fb02a0c3
+            [price] => 0.01
+            [date] => 2024-09-21 03:22:33
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [6] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee215ea2731
+            [price] => 0.01
+            [date] => 2024-09-21 03:30:08
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [7] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee249d8c7d2
+            [price] => 0.01
+            [date] => 2024-09-21 03:44:01
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+)
+
+[2024-09-21 04:01:52] Error: Purchase not found. Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969
+[2024-09-21 04:01:52] Stack trace: #0 {main}
+[2024-09-21 04:03:35] Session data: Array
+(
+    [cachey] => 1726883152.568
+    [tmpfname] => C:\portablexampp\htdocs\includes\tmp\artD943.tmp
+    [serverKeyHalf] => RÉ–•627Oª‘gÙM
+    [admin_user] => Vikerus1@gmail.com
+    [user] => Vikerus3
+    [user_email] => Vikerus3@gmail.com
+)
+
+[2024-09-21 04:03:35] Received data - Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969, Player Name: Vikerus
+[2024-09-21 04:03:35] User email: Vikerus3@gmail.com
+[2024-09-21 04:03:35] Username: Vikerus3
+[2024-09-21 04:03:35] All purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 04:03:35] User purchases: Array
+(
+    [0] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede2ffcc637
+            [price] => 0.01
+            [date] => 2024-09-20 23:03:43
+            [type] => digital
+        )
+
+    [1] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede6b50d8c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:19:31
+            [type] => digital
+        )
+
+    [2] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66edefee190c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:58:49
+            [type] => digital
+            [payment_status] => Completed
+        )
+
+    [3] => Array
+        (
+            [product_id] => 66edfa29a771c
+            [product_name] => Test 2
+            [transaction_id] => txn_66edfa3b47c9d
+            [price] => 0.01
+            [date] => 2024-09-21 00:42:41
+            [type] => physical
+            [payment_status] => Completed
+            [status] => paid
+            [tracking_number] => 456465465
+        )
+
+    [4] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1d5b16f24
+            [price] => 0.01
+            [date] => 2024-09-21 03:12:40
+            [type] => minecraft
+            [payment_status] => Completed
+            [status] => paid
+        )
+
+    [5] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1fb02a0c3
+            [price] => 0.01
+            [date] => 2024-09-21 03:22:33
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [6] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee215ea2731
+            [price] => 0.01
+            [date] => 2024-09-21 03:30:08
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [7] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee249d8c7d2
+            [price] => 0.01
+            [date] => 2024-09-21 03:44:01
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+)
+
+[2024-09-21 04:03:35] Error: Purchase not found. Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969
+[2024-09-21 04:03:35] Stack trace: #0 {main}
+[2024-09-21 04:07:29] Session data: Array
+(
+    [cachey] => 1726883152.568
+    [tmpfname] => C:\portablexampp\htdocs\includes\tmp\artD943.tmp
+    [serverKeyHalf] => RÉ–•627Oª‘gÙM
+    [admin_user] => Vikerus1@gmail.com
+    [user] => Vikerus3
+    [user_email] => Vikerus3@gmail.com
+)
+
+[2024-09-21 04:07:29] Received data - Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969, Player Name: Vikerus
+[2024-09-21 04:07:29] User email: Vikerus3@gmail.com
+[2024-09-21 04:07:29] Username: Vikerus3
+[2024-09-21 04:07:29] All purchases: Array
+(
+    [Vikerus2] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede05c4b01b
+                    [price] => 0.01
+                    [date] => 2024-09-20 22:52:33
+                    [type] => digital
+                )
+
+        )
+
+    [Vikerus3] => Array
+        (
+            [0] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede2ffcc637
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:03:43
+                    [type] => digital
+                )
+
+            [1] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66ede6b50d8c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:19:31
+                    [type] => digital
+                )
+
+            [2] => Array
+                (
+                    [product_id] => 66ed052394e18
+                    [product_name] => Test
+                    [transaction_id] => txn_66edefee190c4
+                    [price] => 0.01
+                    [date] => 2024-09-20 23:58:49
+                    [type] => digital
+                    [payment_status] => Completed
+                )
+
+            [3] => Array
+                (
+                    [product_id] => 66edfa29a771c
+                    [product_name] => Test 2
+                    [transaction_id] => txn_66edfa3b47c9d
+                    [price] => 0.01
+                    [date] => 2024-09-21 00:42:41
+                    [type] => physical
+                    [payment_status] => Completed
+                    [status] => paid
+                    [tracking_number] => 456465465
+                )
+
+            [4] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1d5b16f24
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:12:40
+                    [type] => minecraft
+                    [payment_status] => Completed
+                    [status] => paid
+                )
+
+            [5] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee1fb02a0c3
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:22:33
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [6] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee215ea2731
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:30:08
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+            [7] => Array
+                (
+                    [product_id] => 66ee1d4f34969
+                    [product_name] => Test 3
+                    [transaction_id] => txn_66ee249d8c7d2
+                    [price] => 0.01
+                    [date] => 2024-09-21 03:44:01
+                    [type] => minecraft
+                    [payment_status] => Completed
+                )
+
+        )
+
+)
+
+[2024-09-21 04:07:29] User purchases: Array
+(
+    [0] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede2ffcc637
+            [price] => 0.01
+            [date] => 2024-09-20 23:03:43
+            [type] => digital
+        )
+
+    [1] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66ede6b50d8c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:19:31
+            [type] => digital
+        )
+
+    [2] => Array
+        (
+            [product_id] => 66ed052394e18
+            [product_name] => Test
+            [transaction_id] => txn_66edefee190c4
+            [price] => 0.01
+            [date] => 2024-09-20 23:58:49
+            [type] => digital
+            [payment_status] => Completed
+        )
+
+    [3] => Array
+        (
+            [product_id] => 66edfa29a771c
+            [product_name] => Test 2
+            [transaction_id] => txn_66edfa3b47c9d
+            [price] => 0.01
+            [date] => 2024-09-21 00:42:41
+            [type] => physical
+            [payment_status] => Completed
+            [status] => paid
+            [tracking_number] => 456465465
+        )
+
+    [4] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1d5b16f24
+            [price] => 0.01
+            [date] => 2024-09-21 03:12:40
+            [type] => minecraft
+            [payment_status] => Completed
+            [status] => paid
+        )
+
+    [5] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee1fb02a0c3
+            [price] => 0.01
+            [date] => 2024-09-21 03:22:33
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [6] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee215ea2731
+            [price] => 0.01
+            [date] => 2024-09-21 03:30:08
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+    [7] => Array
+        (
+            [product_id] => 66ee1d4f34969
+            [product_name] => Test 3
+            [transaction_id] => txn_66ee249d8c7d2
+            [price] => 0.01
+            [date] => 2024-09-21 03:44:01
+            [type] => minecraft
+            [payment_status] => Completed
+        )
+
+)
+
+[2024-09-21 04:07:29] Error: Purchase not found. Purchase ID: <br />
+<b>Notice</b>:  Undefined index: id in <b>C:\portablexampp\htdocs\paypalipnhowto\index.php</b> on line <b>287</b><br />
+, Product ID: 66ee1d4f34969
+[2024-09-21 04:07:29] Stack trace: #0 {main}
+[2024-09-21 04:11:11] Error: Purchase not found
+[2024-09-21 04:11:11] Stack trace: #0 {main}
+[2024-09-21 04:11:25] Error: Purchase not found
+[2024-09-21 04:11:25] Stack trace: #0 {main}
