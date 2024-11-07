@@ -19,5 +19,13 @@
         "server_ip": "betahut.bounceme.net",
         "server_port": 200,
         "rcon_password": "YYIqZukrs3MoW2SAuDYqd0RXcVh0MHpOWDlpSU1HZ3cybXFGTkE9PQ=="
+    },
+    {
+        "id": "671920e6348e7",
+        "name": "Traveling Linux Computer - AD ONLY",
+        "price": 300,
+        "description": "Hand-held device that runs windows or linux, even bsd. ",
+        "type": "physical",
+        "image": "https:\/\/betahut.bounceme.net\/dashboard\/uploads\/6715df4ed0c45.webp"
     }
 ]

@@ -220,7 +220,7 @@ $userPurchases = $currentUser ? getUserPurchases($currentUser) : [];
                     <form method="post">
                         <input type="hidden" name="action" value="login">
                         <div class="mb-3">
-                            <label for="username" class="form-label">Username</label>
+                            <label for="username" class="form-label">Email</label>
                             <input type="text" class="form-control" id="username" name="username" required>
                         </div>
                         <div class="mb-3">
@@ -370,45 +370,50 @@ $userPurchases = $currentUser ? getUserPurchases($currentUser) : [];
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
     <script>
-    document.addEventListener('DOMContentLoaded', function() {
-        document.getElementById('registrationForm').addEventListener('submit', function(e) {
-            e.preventDefault();
-            var username = document.getElementById('regUsername').value;
-            var email = document.getElementById('regEmail').value;
-            var password = document.getElementById('regPassword').value;
-            var confirmPassword = document.getElementById('regConfirmPassword').value;
-            if (password !== confirmPassword) {
-                alert('Passwords do not match');
-                return;
+ document.addEventListener('DOMContentLoaded', function() {
+    document.getElementById('registrationForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        var username = document.getElementById('regUsername').value;
+        var email = document.getElementById('regEmail').value;
+        var password = document.getElementById('regPassword').value;
+        var confirmPassword = document.getElementById('regConfirmPassword').value;
+
+        // Client-side check for matching passwords
+        if (password !== confirmPassword) {
+            alert('Passwords do not match');
+            return; // Prevent submission if passwords don't match
+        }
+
+        fetch('register.php', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                username: username,
+                email: email,
+                password: password,
+                confirm_password: confirmPassword
+            }),
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                alert('Registration successful! Please log in.');
+                var registrationModal = bootstrap.Modal.getInstance(document.getElementById('registrationModal'));
+                registrationModal.hide();
+                var loginModal = new bootstrap.Modal(document.getElementById('loginModal'));
+                loginModal.show();
+            } else {
+                alert('Registration failed: ' + (data.message || 'Unknown error'));
             }
-            fetch('register.php', {
-                method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json',
-                },
-                body: JSON.stringify({
-                    username: username,
-                    email: email,
-                    password: password
-                }),
-            })
-            .then(response => response.json())
-            .then(data => {
-                if (data.success) {
-                    alert('Registration successful! Please log in.');
-                    var registrationModal = bootstrap.Modal.getInstance(document.getElementById('registrationModal'));
-                    registrationModal.hide();
-                    var loginModal = new bootstrap.Modal(document.getElementById('loginModal'));
-                    loginModal.show();
-                } else {
-                    alert('Registration failed: ' + (data.message || 'Unknown error'));
-                }
-            })
-            .catch((error) => {
-                console.error('Error:', error);
-                alert('An error occurred during registration. Please try again.');
-            });
+        })
+        .catch((error) => {
+            console.error('Error:', error);
+            alert('An error occurred during registration. Please try again.');
         });
+    });
+
 
         window.showTracking = function(trackingNumber) {
             alert('Tracking Number: ' + trackingNumber);

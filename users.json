@@ -1,23 +1,7 @@
 {
     "Vikerus1@gmail.com": {
-        "password": "$2y$10$t9ruqbslAZfp6vATxFJb4eNbKttQujfNH69qklk2AERv9RpsTasOu",
-        "is_admin": true
-    },
-    "Vikerus111": {
-        "email": "Vikerus111@gmail.com",
-        "password": "$2y$10$AfuG9Lia9kquYi0iRJ\/Fnu.XxQGTAiwNw2nfLb6GFpzp6R3awwrFC"
-    },
-    "Vikerus2": {
-        "email": "Vikerus2@gmail.com",
-        "password": "$2y$10$xGUe5Z4gjzb7ji1MXxOG8epVx3ypjMdU3rmf6kViduo4\/j116GMLm",
-        "pending_transaction": "txn_66ede2d86e4cf"
-    },
-    "Vikerus3": {
-        "email": "Vikerus3@gmail.com",
-        "password": "$2y$10$F5TDKe7j4rvLcOGsvaFdpe66oZfIsEgbHu4OaIAFP9YuuK.XbZ1kS",
-        "pending_transaction": "txn_66efa0f8b5057"
-    },
-    "Vikerus3@gmail.com": {
-        "pending_transaction": "txn_66ef523ebed1f"
+        "password": "$2y$10$.rsaoiKBkLyBaUvI3rIF7.utjNZ46y\/Aa9.VOYpHK1Y8qQhriZR2G",
+        "is_admin": true,
+        "pending_transaction": "txn_672cee52bc7ac"
     }
 }

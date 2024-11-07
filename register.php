@@ -2,12 +2,12 @@
 session_start();
 error_reporting(E_ALL);
 ini_set('display_errors', 1);
-
+header('Content-Type: application/json');
 define('USERS_FILE', 'users.json');
 
-// Load users from the JSON file
 function loadJsonFile($file) {
     if (!file_exists($file)) {
+        error_log("File not found: $file");
         return [];
     }
     $content = file_get_contents($file);
@@ -32,9 +32,13 @@ $isFirstUser = empty($users);
 $isLoggedIn = isset($_SESSION['admin_user']);
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $email = $_POST['email'] ?? '';
-    $password = $_POST['password'] ?? '';
-    $confirmPassword = $_POST['confirm_password'] ?? '';
+    // Read raw POST data (JSON)
+    $inputData = json_decode(file_get_contents('php://input'), true);
+
+    // Extract data from the decoded JSON
+    $email = $inputData['email'] ?? '';
+    $password = $inputData['password'] ?? '';
+    $confirmPassword = $inputData['confirm_password'] ?? '';
     $errors = [];
 
     // Validate email
@@ -57,27 +61,30 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $errors[] = "Email already exists.";
     }
 
-    // If there are no errors, register the user
-    if (empty($errors)) {
-        // Hash the password
-        $hashedPassword = password_hash($password, PASSWORD_DEFAULT);
-
-        // Add user to the array
-        $users[$email] = [
-            'password' => $hashedPassword,
-            'is_admin' => $isFirstUser // First user gets admin rights
-        ];
-
-        // Save the updated users list to the JSON file
-        saveJsonFile(USERS_FILE, $users);
-
-        // Log the new user in and mark them as admin if necessary
-        $_SESSION['admin_user'] = $email;
-        $isLoggedIn = true;
-
-        // Redirect to the admin page or a success page
-        header("Location: admin_dashboard.php");
+    // If there are errors, send the response and exit
+    if (!empty($errors)) {
+        echo json_encode(['success' => false, 'message' => implode(', ', $errors)]);
         exit;
     }
+
+    // If there are no errors, register the user
+    $hashedPassword = password_hash($password, PASSWORD_DEFAULT);
+
+    // Add user to the array
+    $users[$email] = [
+        'password' => $hashedPassword,
+        'is_admin' => $isFirstUser // First user gets admin rights
+    ];
+
+    // Save the updated users list to the JSON file
+    saveJsonFile(USERS_FILE, $users);
+
+    // Log the new user in and mark them as admin if necessary
+    $_SESSION['admin_user'] = $email;
+    $isLoggedIn = true;
+
+    // Respond with success
+    echo json_encode(['success' => true, 'message' => 'Registration successful']);
+    exit;
 }
 ?>
